@@ -1,0 +1,18 @@
+2023-05-04 09:22:18,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 09:22:18,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 09:22:18,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 09:22:18,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 09:22:18,656:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 09:34:22,517:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-04 09:38:55,902:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-05-04 09:39:53,120:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+

@@ -1,0 +1,84 @@
+2023-05-04 06:29:44,438:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:29:44,438:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:29:44,438:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:29:44,438:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:29:44,963:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 06:32:24,098:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:32:24,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:32:24,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:32:24,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 06:32:24,584:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 06:40:40,847:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:37:32,233:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:38:50,833:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\531903386.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data.mean()
+
+2023-05-04 07:40:30,883:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:41:00,559:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:42:05,480:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:44:01,743:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\1903416739.py:18: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+
+2023-05-04 07:44:19,260:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\497119007.py:15: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+
+2023-05-04 07:50:06,796:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 07:54:45,566:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\1864821250.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['TotalCharges'] = data['TotalCharges'].astype(float)
+
+2023-05-04 07:54:47,383:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\141503646.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data[column] = LE.fit_transform(data[column])
+
+2023-05-04 07:54:47,384:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_2452\141503646.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data[column] = data[column].astype('int8')
+
+2023-05-04 08:03:24,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:03:24,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:03:24,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:03:24,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:03:24,796:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 08:09:28,477:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:09:28,477:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:09:28,477:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:09:28,477:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 08:09:29,017:INFO:Soft dependency imported: prophet: 1.1.2
