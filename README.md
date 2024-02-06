@@ -1,3 +1,3 @@
-# Machine Learning Classification Projects
+# 35+ Machine Learning Classification Projects using Unsupervised Learning : Exploring & Learning Data Science
 
-Simple Project using Machine Learning Classification and Open Dataset from Kaggle and other sources.
+This repository houses 35+ classification projects using unsupervised machine learning techniques, showcasing my journey and experimentation as I learn and train for a data science role. Datasets sourced from Kaggle and various websites.
